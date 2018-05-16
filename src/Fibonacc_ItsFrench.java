@@ -13,6 +13,7 @@ public static void main(String[] args) {
 		System.out.println(sum);
 		num1=num2;
 		num2=sum;
+		
 	}
 	
 	

@@ -23,6 +23,7 @@ String pos=JOptionPane.showInputDialog("Dr. Nugget: Hello, give me a positive nu
 	}
 	JOptionPane.showMessageDialog(null, "Dr. Nugget: Your number, "+pos+" is prime.");
 	return;
+	
 }
 }
 
